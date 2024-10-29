@@ -1,0 +1,23 @@
+/* CSS Document */
+
+
+#BoxForm {
+margin : 0px 7px 10px 10px;
+margin-bottom: 40px;
+padding : 0;
+overflow : hidden;
+}
+
+#BoxFormField { 
+padding : 2px;
+border : 2px solid #555;
+background: #ddd;
+color: #555;
+} 
+
+.BoxMailButton {
+padding : 1px;
+border : 1px solid #555;
+background: #ddd;
+color: #555;
+}
